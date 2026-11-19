@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Saad-sue/saad-sue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saif (Saad)! 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | BSc Mathematics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning programming and developing my technical skills.
+
+## 🚀 Currently Learning
+- C++
+- Programming Fundamentals
+- Data Structures and Algorithms
+- Git and GitHub
+
+## 🎯 My Goals
+- Build strong programming fundamentals.
+- Create real-world programming projects.
+- Learn C# and explore software development.
+- Build a professional developer portfolio.
+
+## 🛠️ Technologies
+- C++
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📚 About Me
+- 🎓 BSc Mathematics Student
+- 💻 Interested in Software Development
+- 🌱 Learning something new every day
+
+---
+
+*Consistency is the key to progress.*
